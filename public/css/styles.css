@@ -229,7 +229,7 @@ img {
 }
 
 .site-header--home .container {
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
 }
 
 .site-header--home nav {
@@ -936,7 +936,7 @@ img {
   }
 
   .hero-inner {
-    flex-direction: column;
+    flex-direction: column-reverse;
     align-items: stretch;
     gap: 32px;
   }
